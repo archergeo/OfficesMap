@@ -58,9 +58,20 @@
   region: "South America"
   CapcoHub: "https://capcoinc.sharepoint.com/sites/CommuniCATO81"
   adress: "Av. Alm. Barroso 81, Rio de Janeiro, RJ, 20031-004 "
-  contact: "+1 416-923-4570"
+  contact: "+55 11 3030-4000"
   latitude: -22.90731
   longitude: -43.17525
-  card_image_url: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTejDhU26uvM9L4xmYcTOxaz1RdZWi32gHhKA&s"
+  card_image_url: "https://a.mktgcdn.com/p/xyPDwRdKIEpNhgz4q4gtv0qlhwkacsCxDCo0mj38q4A/3000x2000.jpg"
+  icon_image_url: "https://i0.wp.com/fresherjobinfo.in/wp-content/uploads/2022/09/CAPCO.png?resize=300%2C166&ssl=1"
+
+- city: Houston
+  nome: "CAPCO"
+  region: "North America"
+  CapcoHub: "https://capcoinc.sharepoint.com/sites/CommuniCATO81"
+  adress: "717 Texas Ave Suite 1600, Houston, TX 77002, EUA"
+  contact: "+1 713-350-1000"
+  latitude: 29.76165
+  longitude: -95.36424
+  card_image_url: "https://media.licdn.com/dms/image/v2/D4E10AQFOFHotwu7oCA/image-shrink_800/B4EZT7UbDXHUAc-/0/1739383223298?e=2147483647&v=beta&t=uGAjv34laq6A-tbArptcpbuQjapjEcFdXjzP0CSNdOY"
   icon_image_url: "https://i0.wp.com/fresherjobinfo.in/wp-content/uploads/2022/09/CAPCO.png?resize=300%2C166&ssl=1"
   
