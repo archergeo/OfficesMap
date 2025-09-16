@@ -67,11 +67,33 @@
 - city: Houston
   nome: "CAPCO"
   region: "North America"
-  CapcoHub: "https://capcoinc.sharepoint.com/sites/CommuniCATO81"
+  CapcoHub: "https://capcoinc.sharepoint.com/sites/CapcoHubUS"
   adress: "717 Texas Ave Suite 1600, Houston, TX 77002, EUA"
   contact: "+1 713-350-1000"
   latitude: 29.76165
   longitude: -95.36424
   card_image_url: "https://content.r9cdn.net/rimg/dimg/e2/2b/468e92b8-city-31193-162c0db8f8f.jpg?crop=true&width=1020&height=498"
+  icon_image_url: "https://i0.wp.com/fresherjobinfo.in/wp-content/uploads/2022/09/CAPCO.png?resize=300%2C166&ssl=1"
+
+- city: Orlando
+  nome: "CAPCO Services"
+  region: "North America"
+  CapcoHub: "https://capcoinc.sharepoint.com/sites/CapcoHubUS"
+  adress: "151 Southhall Ln #400, Maitland, FL 32751, EUA"
+  contact: "+1 407-374-5900"
+  latitude: 29.76165
+  longitude: -95.36424
+  card_image_url: "https://sndorlandoturismo.com.br/wp-content/uploads/2024/02/orlando-food-tours-FT-BLOG0223-750ae48ff8e34ee2b4b2592629017725.jpg"
+  icon_image_url: "https://i0.wp.com/fresherjobinfo.in/wp-content/uploads/2022/09/CAPCO.png?resize=300%2C166&ssl=1"
+
+- city: Dallas
+  nome: "CAPCO"
+  region: "North America"
+  CapcoHub: "https://capcoinc.sharepoint.com/sites/CapcoHubUS"
+  adress: "3131 McKinney Ave Suite 175, Dallas, TX 75204, EUA"
+  contact: "+1 713-350-1000"
+  latitude: 32.80253
+  longitude: -96.80089
+  card_image_url: "https://www.viajanteglobal.com.br/wp-content/uploads/2025/03/dallas_eua.webp"
   icon_image_url: "https://i0.wp.com/fresherjobinfo.in/wp-content/uploads/2022/09/CAPCO.png?resize=300%2C166&ssl=1"
   
