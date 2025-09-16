@@ -87,13 +87,24 @@
   icon_image_url: "https://i0.wp.com/fresherjobinfo.in/wp-content/uploads/2022/09/CAPCO.png?resize=300%2C166&ssl=1"
 
 - city: Dallas
-  nome: "CAPCO"
+  nome: "CAPCO Services"
   region: "North America"
   CapcoHub: "https://capcoinc.sharepoint.com/sites/CapcoHubUS"
   adress: "3131 McKinney Ave Suite 175, Dallas, TX 75204, EUA"
   contact: "+1 713-350-1000"
-  latitude: 32.80253
-  longitude: -96.80089
+  latitude: 28.62825
+  longitude: -81.39725
   card_image_url: "https://www.viajanteglobal.com.br/wp-content/uploads/2025/03/dallas_eua.webp"
+  icon_image_url: "https://i0.wp.com/fresherjobinfo.in/wp-content/uploads/2022/09/CAPCO.png?resize=300%2C166&ssl=1"
+
+- city: Charlotte
+  nome: "CAPCO Services"
+  region: "North America"
+  CapcoHub: "https://capcoinc.sharepoint.com/sites/CapcoHubUS"
+  adress: "128 S Tryon St, Charlotte, NC 28202, EUA"
+  contact: "+1 704-919-0489"
+  latitude: 35.22688
+  longitude: -80.84423
+  card_image_url: "https://www.visittheusa.com/sites/default/files/styles/hero_l/public/images/hero_media_image/2024-02/902d0dae-ebc4-4bfa-8f1f-7af8f7a16ec9.jpeg?h=f52e7eb6&itok=cTGLxi7v"
   icon_image_url: "https://i0.wp.com/fresherjobinfo.in/wp-content/uploads/2022/09/CAPCO.png?resize=300%2C166&ssl=1"
   
